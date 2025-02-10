@@ -9,18 +9,30 @@ citations-hover: false
 
 # Annual Review Article
 
-@annualrevarticle
-
+@nusser23Role23
 
 # References
 
-@ref1
+@bourneWillBiologicalDatabase2005
 
-- Summary
+-   Philip Bourne discusses the potential future of integrating biological databases with biological journals, where databases follow the same procedure as publishing journals with a submission and review. Multiple journals would be linked to a specific digital object identifier (DOI), which would make experiments that use the same data more reproducible and comparable.
 
-- Reliability and relationship to the topic
+-   Bourne is the editor-in-chief of PLoS Computational Biology and the Codirector of the Protein Data Bank, which explains his expertise and experience in using large datasets for multiple experiments. The paper is published in PLoS Computational Biology, a reputable peer-reviewed scientifical journal established by the Public Library of Science. The paper also relates to the topic of data reusability and research transparency, as Bourne theorizes the use of publically-available data linked to experiments. It would be nice if there were more references, but the paper does not make any claims that must be backed by citations.
 
-- Missing pieces
-    - thing 1
+-   Missing pieces
 
-    - thing 2
+    -   I would need to know more about tools in the field of biology for visualizing and analyzing biological data to better comprehend the potential of databases and journals becoming interwoven.
+
+    -   I would need to know more about the tendencies and motivations of biology researchers to see how the scientific community would interact with such a tool in the desired way.
+
+@monsValueData2011
+
+-   The article discusses the need to adapt scholarly communication in order to better incorporate data sharing and citations by introducing nanopublications, which are small, machine-readable units of scientific claims meant to make it easier to discover data for scientific publications.
+
+-   The article was published in Nature Genetics, which is a reputable scientific journal that requires peer-review. The authors all come from bioinformatics backgrounds, which explains their knowledge in the realm of scientific papers and how to improve data sharing and citations. Many of the citations are self-referential, but the context citations is appropriate.
+
+-   Missing pieces
+
+    -   I would need a more comprehensive description of nanopublications, how they are supposed to be constructed to be machine-readable, and by whom.
+
+    -   I would need a more comprehensive description of how data validation and review would change or not change when it comes to this new form of data communication.
