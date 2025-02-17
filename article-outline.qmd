@@ -1,0 +1,31 @@
+---
+title: "article-outline"
+format: html
+editor: visual
+---
+
+# Reverse Outline of @nusser23Role23
+
+## Thesis
+
+The article describes the importance and methods of open research that uses data reusability, research transparency, and appropriate statistical procedures for improving data sharing and reproducability in research.
+
+| **Main idea** | **How it supports the thesis** |
+|----|----|
+| **1. Introduction**: Including research data is increasingly important, requiring better transparency and accessibility. | This sets up the argument that there is a need for change in research procedures regarding data sharing. |
+| **2. Changes in Research Culture and Policy**: There is a rise in open research and transparency expectations. | This provides background on current policies shaping the demand for data reusability. |
+| **2.1 Open Research and Research Transparency**: Data sharing principles such as FAIR are recommended and expected. | There is an increasing importance of adhering to openness in research. |
+| **2.2 Broader Ecosystem Influences**: Funders, publishers, and institutions drive transparency. | This shows external pressures and incentives shaping research practices. |
+| **3. Data Reusability and Research Practice**: This section defines data reusability and its challenges. | This puts data reusability into context. |
+| **3.1 Data Reusability**: Data reusability is important for transparency and replication. | This reinforces the necessity of structured, well-documented data. |
+| **3.2 Data Reuser Needs**: Researchers require extensive metadata and documentation. | This highlights what makes data actually usable for reproducibility. |
+| **3.3 Producer Approaches to Improving Reusability**: Proactive data management can be difficult, but there are approaches that are beneficial for everyone. | Proactive data management has lots of methods that make it feasible for better reusability. |
+| **4. Statistical Considerations for Data Reusability**: Statistics is vital in ensuring high-quality, reusable data. | Statisticians and statistics must ensure data quality for reusability. |
+| **4.1 Data Reusability in Reproducibility & Replicability Studies**: Data reusability is vital in reproducibility and replication studies. | By improving data reusability, reproducibility in research is also improved. |
+| **4.1.1 Examples of Data Reuse in Studies**: Many studies have statistical issues that negatively impact reproducibility. | Statistical procedures must be improved in studies in order to improve reproducibility. |
+| **4.1.2 Statistical Considerations in Reproducibility**: Statisticians need more involvement in research to ensure reproducibility. | Strong statistical procedures must be implemented in order to improve reproducibility. |
+| **4.2 Evaluating Data Quality**: It is difficult to assess whether data is of good quality. | There is a pressing need for ways to improve data quality and data reusability. |
+| **4.2.1 Statistical Frameworks for Data Quality**: There are multiple ways to statistically evaluate data quality, such as total survey error. | There are existing and necessary methods for statistical analysis for the improvement of data quality. |
+| **4.2.2 Repository and Publishing Perspectives**: How data is stored is very important in data sharing and reusability. | To improve data sharing, data repositories and publishing can be improved. |
+| **5. Actions for Statisticians and Researchers**: There are steps to enhance data sharing and transparency. | This offers concrete recommendations for improving research workflows. |
+| **6. Conclusions**: This is a summary of key points and the role of statisticians. | This summarizes the importance of data sharing. |
