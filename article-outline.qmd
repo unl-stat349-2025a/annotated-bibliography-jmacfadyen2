@@ -1,7 +1,7 @@
 ---
 title: "article-outline"
 format: html
-editor: visual
+bibliography: references.bib
 ---
 
 # Reverse Outline of @nusser23Role23
@@ -11,7 +11,7 @@ editor: visual
 The article describes the importance and methods of open research that uses data reusability, research transparency, and appropriate statistical procedures for improving data sharing and reproducability in research.
 
 | **Main idea** | **How it supports the thesis** |
-|----|----|
+|------------------------------------|------------------------------------|
 | **1. Introduction**: Including research data is increasingly important, requiring better transparency and accessibility. | This sets up the argument that there is a need for change in research procedures regarding data sharing. |
 | **2. Changes in Research Culture and Policy**: There is a rise in open research and transparency expectations. | This provides background on current policies shaping the demand for data reusability. |
 | **2.1 Open Research and Research Transparency**: Data sharing principles such as FAIR are recommended and expected. | There is an increasing importance of adhering to openness in research. |
@@ -29,3 +29,6 @@ The article describes the importance and methods of open research that uses data
 | **4.2.2 Repository and Publishing Perspectives**: How data is stored is very important in data sharing and reusability. | To improve data sharing, data repositories and publishing can be improved. |
 | **5. Actions for Statisticians and Researchers**: There are steps to enhance data sharing and transparency. | This offers concrete recommendations for improving research workflows. |
 | **6. Conclusions**: This is a summary of key points and the role of statisticians. | This summarizes the importance of data sharing. |
+
+
+# References
